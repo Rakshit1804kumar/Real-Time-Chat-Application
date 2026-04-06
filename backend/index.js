@@ -13,10 +13,10 @@ const port=process.env.PORT || 5000
 
 
 app.use(cors({
-  origin: [
+  origin: 
     "http://localhost:5173",
     "https://real-time-chat-application-azure-two.vercel.app"
-  ],
+  ,
   credentials: true
 }));
 
