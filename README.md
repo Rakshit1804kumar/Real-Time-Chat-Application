@@ -41,7 +41,7 @@ A modern real-time chat application built using the MERN stack with real-time me
 ### 1️⃣ Clone the repository
 
 ```bash id="d2p1jx"
-git clone https://github.com/pushpanjali1909/Real-Time-Chat-Application.git
+git clone https://github.com/Rakshit1804kumar/Real-Time-Chat-Application.git
 cd Real-Time-Chat-Application
 ```
 
