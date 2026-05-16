@@ -90,13 +90,9 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 
----
+ 
 
-## 📸 Screenshots
-
-(Add your app screenshots here)
-
----
+ 
 
 ## 🌟 Future Improvements
 
